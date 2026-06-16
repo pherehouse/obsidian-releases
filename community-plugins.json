@@ -33724,5 +33724,12 @@
     "author": "Hyunyoung Park",
     "description": "Page-style reading and navigation for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lugglory/pagemode"
+  },
+  {
+    "id": "ppt-viewer",
+    "name": "PPT Viewer",
+    "author": "pherehouse",
+    "description": "Preview PowerPoint (.pptx and .ppt) files directly within Obsidian.",
+    "repo": "pherehouse/ppt-viewer"
   }
 ]
